@@ -20,7 +20,7 @@ WTForms==2.0.2
 Werkzeug==0.11.2
 alembic==0.8.3
 argparse==1.2.1
-bleach==1.4.2
+bleach==3.3.0
 blinker==1.4
 coverage==4.0.2
 dominate==2.1.16
